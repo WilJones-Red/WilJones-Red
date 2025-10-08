@@ -1,6 +1,6 @@
-![Banner Image](https://example.com/banner.png)
+![Banner Image]("banner.gif")
 
-##Hi, I’m Wilkin Jones
+Hi, I’m Wilkin Jones
 I’m a data analyst based in Idaho Falls, ID. I specialize in transforming messy, unstructured data into clear, actionable insights that help businesses grow.
 
 My background includes strong experience in Python, SQL, machine learning, and AI-powered analytics. I enjoy building custom dashboards, predictive models, and automation tools that simplify decision-making and drive measurable results.
