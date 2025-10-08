@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!
 
 Hi, I’m Wilkin Jones
 I’m a data analyst based in Idaho Falls, ID. I specialize in transforming messy, unstructured data into clear, actionable insights that help businesses grow.
