@@ -3,7 +3,7 @@
   <img src="banner.gif" alt="Wilkin Jones Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-#Hi, I’m Wilkin Jones
+### Hi, I’m Wilkin Jones
 
 **Data Analyst | AI Enthusiast | Machine Learning Practitioner**  
 *Based in Idaho Falls, ID*  
