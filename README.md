@@ -1,6 +1,6 @@
 <!-- Center the banner image and ensure it scales to full width -->
 <p align="center">
-  <img src="banner.gif" alt="Wilkin Jones Banner" width="100%" style="border-radius: 10px;" />
+  <img src="Add a heading (3).png" alt="Wilkin Jones Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 ### Hi, I’m Wilkin Jones
