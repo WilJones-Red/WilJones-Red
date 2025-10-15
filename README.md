@@ -37,7 +37,7 @@ I love building:
 
 ---
 
-###Tech Stack
+### Tech Stack
 
 | Category | Tools |
 |-----------|-------|
@@ -50,7 +50,7 @@ I love building:
 
 ---
 
-###Let’s Connect
+### Let’s Connect
 
 I’m always open to collaborations or freelance data projects — whether that’s **building predictive models**, **analyzing complex datasets**, or **consulting on analytics strategy**.
 
