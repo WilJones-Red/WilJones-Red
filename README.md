@@ -42,7 +42,7 @@ I love building:
 | Category | Tools |
 |-----------|-------|
 | **Languages** | Python, SQL, R |
-| **Libraries** | pandas, scikit-learn, matplotlib, Plotly, Polars |
+| **Libraries** | Pandas, Scikit-learn, Matplotlib, Plotly, Polars |
 | **Databases** | PostgreSQL, SQL Server, MySQL |
 | **Visualization** | Power BI, Tableau, Quarto, Excel |
 | **Cloud / DevOps** | GitHub, Docker, Render, AWS (Basics) |
@@ -52,7 +52,7 @@ I love building:
 
 ### Let’s Connect
 
-I’m always open to collaborations or freelance data projects — whether that’s **building predictive models**, **analyzing complex datasets**, or **consulting on analytics strategy**.
+I’m always open to collaborations or freelance data projects -- whether that’s **building predictive models**, **analyzing complex datasets**, or **consulting on analytics strategy**.
 
 - [LinkedIn](https://www.linkedin.com/in/wilkinjones)
 - [Portfolio Website](https://www.wilkinjones.com)
